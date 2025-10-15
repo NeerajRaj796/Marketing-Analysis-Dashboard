@@ -30,9 +30,6 @@ CTR	Click-through rate (%)
 Currency	Currency code (CA$)
 Avg. CPC	Average Cost per Click (in CA$)
 
-📄 File Used: synthetic_marketing_country_city_1000.csv
-💡 Contains 1,000 synthetic records generated using Python (pandas, NumPy) to reflect real-world marketing data patterns.
-
 🧰 Tools & Techniques
 Category	Tools / Methods Used
 Data Cleaning & Processing	Microsoft Excel (Formulas, Pivots, Conditional Formatting)
