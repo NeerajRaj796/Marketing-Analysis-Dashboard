@@ -56,6 +56,8 @@ Data Simulation	Python (Synthetic Data Generation using pandas & numpy)
 🖥️ Dashboard Overview
 🔸 Campaign Dashboard – Clicks & Impressions by Location
 
+![First Campaign](First%20Campaign.png)
+
 Key Visuals:
 
 📊 Bar Chart: Clicks & Impressions by Canadian city
