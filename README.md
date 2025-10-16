@@ -37,7 +37,7 @@ Data Simulation	Python (Synthetic Data Generation using pandas & numpy)
 
 Key Visuals:
 
-![First Campaign](First Campaign.png)
+![First Campaign](First%20Campaign%20.png)
 
 Bar Chart: Clicks & Impressions by Canadian city.
 Pie Chart: Click distribution by targeted location.
