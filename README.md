@@ -80,7 +80,9 @@ Average CPC
 
 Interactive Slicers: Filter by Country, State, and City
 
-🔸 KPI Snapshot Dashboard
+🔸 Second Campaign Dashboard
+
+![Second Campaign](Second%20Campaign.png)
 
 Summary Cards Display:
 
@@ -95,6 +97,8 @@ Summary Cards Display:
 This dashboard helps identify cost-efficient campaigns and monitor performance trends at a glance.
 
 🔸 Sectoral Market Analysis – Emerging Canadian Industries
+
+![Emerging MArkets](Emerging%20Markets.png)
 
 Cities Analysed:
 🇨🇦 Vancouver, Toronto, Calgary, Ottawa
