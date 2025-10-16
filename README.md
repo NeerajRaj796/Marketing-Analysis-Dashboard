@@ -22,21 +22,37 @@ Present results through interactive Excel dashboards.
 
 📁 Dataset Description
 Column	Description
+
 Country	Country name (Canada / United States)
+
 State	Province or State name
+
 City	Targeted city
+
 Clicks	Number of ad clicks
+
 Impressions	Total ad impressions
+
 CTR	Click-through rate (%)
+
 Currency	Currency code (CA$)
+
 Avg. CPC	Average Cost per Click (in CA$)
+
 🧰 Tools & Techniques
+
 Category	Tools / Methods Used
+
 Data Cleaning & Processing	Microsoft Excel (Formulas, Pivots, Conditional Formatting)
+
 Visualization	Excel Dashboards (Charts, Slicers, KPI Cards, Pie Charts)
+
 Statistical Analysis	CTR %, CPC Distribution, Clicks vs Impressions Trend
+
 Market Research	Sectoral Opportunity Analysis for Canadian Cities
+
 Data Simulation	Python (Synthetic Data Generation using pandas & numpy)
+
 🖥️ Dashboard Overview
 🔸 Campaign Dashboard – Clicks & Impressions by Location
 
